@@ -1,0 +1,3 @@
+[submodule "machinelearning-az"]
+	path = machinelearning-az
+	url = https://github.com/joanby/machinelearning-az.git/
